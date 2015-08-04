@@ -47,15 +47,15 @@ public class YouTubeContent {
     public static Map<String, YouTubeVideo> ITEM_MAP = new HashMap<>();
 
     static {
-        addItem(new YouTubeVideo("jGHbJKENf1k", "the dragon part 1"));
-        addItem(new YouTubeVideo("V0PBfT9Uwxk", "Open in the YouTube App in fullscreen"));
-        addItem(new YouTubeVideo("fEVxyyq4Rmg", "Open in the Standalone player in fullscreen"));
-        addItem(new YouTubeVideo("XDiNh1-Qn_8", "Open in the Standalone player in \"Light Box\" mode"));
-        addItem(new YouTubeVideo("KfL_s5mNn44", "Open in the YouTubeFragment"));
-        addItem(new YouTubeVideo("dTQkQqAE_xQ", "Hosting the YouTubeFragment in an Activity"));
-        addItem(new YouTubeVideo("8VRSTh-mXzQ", "Open in the YouTubePlayerView"));
-        addItem(new YouTubeVideo("3PkC4J6Wju0", "Custom \"Light Box\" player with fullscreen handling"));
-        addItem(new YouTubeVideo("XDiNh1-Qn_8", "Custom player controls"));
+        addItem(new YouTubeVideo("5WjhzPTjX0E", "S.P.L.A"));
+        addItem(new YouTubeVideo("4OSSSp1qKQE", "Legend of The Drunken Master FULL MOVIE 1994 (Jackie Chan)"));
+        addItem(new YouTubeVideo("uAVfgwH32vU", "Open in the Standalone player in fullscreen"));
+        addItem(new YouTubeVideo("8VRSTh-mXzQ", "DJ AFRO AMINGOS-Fight the Fight {part 2}"));
+        addItem(new YouTubeVideo("3PkC4J6Wju0", "Dj afro~legedary assasin"));
+        addItem(new YouTubeVideo("SWy3kof-WZI", "DJ Afro a.k.a Kimonda"));
+        addItem(new YouTubeVideo("fEVxyyq4Rmg", "DJ AFRO AMIGOS strike commando"));
+        addItem(new YouTubeVideo("ERGav_N3YVM", "CDj Afro- City of Violence (Part One)"));
+        addItem(new YouTubeVideo("YZUBiASOEHE", "Dj Afro the Boss (Part 2) And (Kicks of Heat Part 1)"));
     }
 
     private static void addItem(final YouTubeVideo item) {
